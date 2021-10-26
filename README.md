@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ripytide
-- 📫 How to reach me: *ripytide#5421* on discord.
+- 📫 How to reach me: **ripytide#5421** on discord.
